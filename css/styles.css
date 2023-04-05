@@ -307,8 +307,8 @@ body {
   color: var(--white);
   display: block;
 
-  padding-bottom: 20px;
-  margin: 0px;
+  margin-top: 0px;
+  margin-bottom: 20px;
 }
 .logofoot > span {
   color: var(--blue);
